@@ -1,4 +1,3 @@
 hello-houston
 =============
-
-this is my first repository
+I am a designer learning the ins and outs of Git and GitHub. Bear with me...
